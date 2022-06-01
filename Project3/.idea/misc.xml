@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_city.xml" value="0.3109375" />
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_country.xml" value="0.3098958333333333" />
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_main.xml" value="0.3265625" />
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_phobia.xml" value="0.325" />
+        <entry key="..\:/Users/Guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_result_page.xml" value="0.3265625" />
+        <entry key="..\:/Users/guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_history_and_new_test.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_main.xml" value="0.3691123188405797" />
+        <entry key="..\:/Users/guray/AndroidStudioProjects/Project3/app/src/main/res/layout/activity_result_page.xml" value="0.17350557244174267" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_city.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_climate.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_country.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_history.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_landscape.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_main.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_menu.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_phobia.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/guray/Desktop/saved/PROJECT last 1/androidproject1/Project3/app/src/main/res/layout/activity_result.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.264" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_city.xml" value="0.25" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_history_and_new_test.xml" value="0.264" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.2" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_result.xml" value="0.1" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_send_access_code.xml" value="0.25" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_send_reset_code.xml" value="0.25" />
+        <entry key="..\:/Users/kalaf/AndroidStudioProjects/androidproject_april9/Project3/app/src/main/res/layout/activity_set_new_password.xml" value="0.25" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/drawable/buttons.xml" value="0.3615" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_budget.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_city.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_climate.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_country.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_history.xml" value="0.3828571428571429" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_landscape.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_main.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_menu.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_phobia.xml" value="0.3828571428571429" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_result.xml" value="0.3828571428571429" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_send_access_code.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_send_reset_code.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/Project3/app/src/main/res/layout/activity_set_new_password.xml" value="0.3668234288157332" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/drawable/buttons.xml" value="0.3615" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_budget.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_city.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_climate.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_climate2.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_country.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_landscape.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_main.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_phobia.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/activity_quiz.xml" value="2.68125" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/content_climate.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page2.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page3.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page4.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page5.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page6.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project/app/src/main/res/layout/page7.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_budget.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_city.xml" value="0.3104166666666667" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_city_info.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_climate.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_country.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_history.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_history_and_new_test.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_log_in_page.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_main.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_phobia.xml" value="0.446875" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_result.xml" value="0.44" />
+        <entry key="..\:/Vishnu/School/University/Humber/Winter 2022/Android Application Dev 1 ITE5333/Project3/app/src/main/res/layout/activity_result_page.xml" value="0.446875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
